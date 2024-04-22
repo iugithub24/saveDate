@@ -1,0 +1,35 @@
+.container {
+    max-width: 800px;
+    padding: 0 20px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+
+.navbar {
+    background-color: #343a40;
+}
+
+.navbar h1 {
+    color: #ffffff;
+    font-size: 24px;
+}
+
+.accordion {
+    margin-top: 50px;
+    width: 500px;
+}
+
+.accordion-button {
+    background-color: #007bff;
+    color: #ffffff;
+    font-weight: bold;
+}
+
+.accordion-body {
+    background-color: #ffffff;
+    border: 1px solid #dee2e6;
+    border-top: none;
+    padding: 10px;
+}
